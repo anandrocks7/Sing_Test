@@ -2,7 +2,7 @@
 
 **To run  Automation project.**
 
-**1)**  Just doubleclick on file "Automationrun.bat"  present in project folder.
+**1)**  Downlaod project just doubleclick on file "Automationrun.bat"  present in project folder.
 
 OR
 
@@ -15,8 +15,9 @@ OR
 **3)** Open in eclipse,  Run "testng.xml"  as Run as Testn Ng. 
 
 **Test Report:**
-Path for Report (Index.html) :  Sing_Test\CucumberBDDFramwork\target\cucumber-reports\cucumber-pretty
- I have uploaded last Run report as well here  :: \Test\Sing_Test\CucumberBDDFramwork\Test Run Report\Test RunReportCucumberFeatures.html
+**Path for Report (Index.html) :**  Sing_Test\CucumberBDDFramwork\target\cucumber-reports\cucumber-pretty
+
+ > I have uploaded last Run report as well here  :: \Test\Sing_Test\CucumberBDDFramwork\Test Run Report\Test RunReportCucumberFeatures.html
 
 
 **Pre-requisite:**  Make sure maven and java path is configured on the machine before running the test.
